@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1084425744047",
+    "project_id": "gymistic-4cdf2",
+    "storage_bucket": "gymistic-4cdf2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1084425744047:android:5a43d96ec37ae627e2ee5a",
+        "android_client_info": {
+          "package_name": "com.example.gymistic"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1084425744047-7dfas99amgfbfk4kc79bl0knnhnc8qog.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB90BOqBDz3NR7B-maX6xXL7PQnNNDhjr0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1084425744047-7dfas99amgfbfk4kc79bl0knnhnc8qog.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
